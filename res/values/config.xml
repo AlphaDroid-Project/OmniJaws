@@ -17,10 +17,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-	<string name="owm_api_key" translatable="false">6d8ca0c28ed62154e24efebd91b8884d</string>
+	<string name="owm_api_key" translatable="false">3798dbc0b6f7663a6c1d1866dc922768</string>
 	<string name="owm_api_key_1" translatable="false"></string>
 	<string name="owm_api_key_2" translatable="false"></string>
 
-	<string name="accu_api_key" translatable="false" >a87Io3arUArJDHgvCCo9VRaOlmrUQjZg</string>
-	<string name="wbit_api_key" translatable="false" >8ea565faa2be43c3b2f71e4a40dcb437</string>
+	<string name="accu_api_key" translatable="false" >50okTaYJMgxKXXUt3NDMnKdyHECGUzHU</string>
+	<string name="wbit_api_key" translatable="false" >7d717c3fac1148a6807a26da0a938a62</string>
 </resources>
